@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QualificationRound
 {
-    class Program
+    class MagicTrick
     {
         static void Main(string[] args)
         {
