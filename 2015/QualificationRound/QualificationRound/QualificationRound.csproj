@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{10636AB4-521D-45E1-97A3-C2D48B1E2EEC}</ProjectGuid>
+    <ProjectGuid>{8B5ACA3A-B92B-4C5F-8480-329A6C7F211E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>QualificationRound</RootNamespace>
@@ -42,12 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CodeJamHelper.cs" />
-    <Compile Include="CookieClicker.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="MagicTrick.cs">
-      <SubType>Code</SubType>
-    </Compile>
+    <Compile Include="ProgramA.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
