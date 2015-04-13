@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CodeJamHelper.cs" />
-    <Compile Include="ProgramA.cs" />
+    <Compile Include="ProblemD.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
